@@ -15,6 +15,9 @@
 
    3hao/index
    linux/index
+   windows/index
+   oracle/index
+   server/index
    rst
    about
 
