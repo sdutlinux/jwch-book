@@ -6,6 +6,9 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = _build
+SSH_PORT 	  = 80
+SSH_USER      = group@210.44.176.208
+SSH_USERPATH  = ~/blog/book
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
@@ -151,3 +154,6 @@ doctest:
 	$(SPHINXBUILD) -b doctest $(ALLSPHINXOPTS) $(BUILDDIR)/doctest
 	@echo "Testing of doctests in the sources finished, look at the " \
 	      "results in $(BUILDDIR)/doctest/output.txt."
+rsync:
+	rsync -avze 'ssh -p $(SSH_PORT)' --delete $(BUILDDIR)/html/ $(SSH_USER):$(SSH_USERPATH)
+
