@@ -29,7 +29,14 @@
 
 如何向本书提交自己的修改?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-在 `项目Github页面 github.com/jwch/book <https://github.com/jwch/book>`_ , 流程下图所示
+ `项目Github页面 github.com/jwch/book <https://github.com/jwch/book>`_
 
-.. image::  _image/book_git.png
+在github 已经建立了jwch 的组织，如果你已经在这个组织里，那么你有权限。没有的话，请将你的github 帐号告诉我
 
+工作流程
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. 编辑你所要修改的内容
+2. 使用 make html 生成html
+3. 使用 make rsync 部署到服务器
+4. 提交到github

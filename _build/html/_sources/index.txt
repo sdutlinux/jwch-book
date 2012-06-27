@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-山东理工大学教育技术中心-漫游指南
+山东理工大学教育技术中心
 =====================================
 
 内容:
