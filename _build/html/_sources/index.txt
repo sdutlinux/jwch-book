@@ -20,6 +20,7 @@
    server/index
    rst
    about
+   summer
 
 
 Indices and tables
