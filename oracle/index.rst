@@ -13,4 +13,5 @@ marketed by Oracle Corporation.
 .. toctree::
 
     setup
+    tablespace
 
