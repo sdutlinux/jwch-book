@@ -18,6 +18,7 @@
    windows/index
    oracle/index
    server/index
+   language/index
    rst
    about
    summer
