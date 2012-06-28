@@ -19,6 +19,7 @@
    oracle/index
    server/index
    language/index
+   tool/index
    rst
    about
    summer
