@@ -6,10 +6,12 @@
 
 
 .. 成员相关链接~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. _lidashuang: http://li.dashuang.name
 
 
 .. 技术社区链接收集~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. _Python: http://python.org
 .. _Pythonic: http://wiki.woodpecker.org.cn/moin/PythonIc
 .. _Python website: http://www.python.org
@@ -17,6 +19,7 @@
 .. _PEP-8:  http://www.python.org/dev/peps/pep-0008/
 .. _PEP-257:  http://www.python.org/dev/peps/pep-0257/
 .. _reSTsections: http://sphinx.pocoo.org/rest.html#sections
+.. _ruby-china: http://ruby-china.org
 
 
 
