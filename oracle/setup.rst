@@ -3,6 +3,8 @@ RHEL5.5 下oralce 安装
 
 :作者: 李大双 ldshuang@gmail.com
 
+.. _oracle_install:
+
 配置要求
 ---------------------
 

@@ -24,6 +24,7 @@
    rst
    about
    summer
+   member
 
 
 Indices and tables
