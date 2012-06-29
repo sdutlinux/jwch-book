@@ -64,7 +64,7 @@ Vnc配置::
     net.core.wmem_max=262144
     net.core.wmem_default=262144
 
-使用:sysctl -p: 重新加载并验证参数是否正确
+使用 **sysctl -p** 重新加载并验证参数是否正确
 
 设置shell调用限制
 --------------------------
