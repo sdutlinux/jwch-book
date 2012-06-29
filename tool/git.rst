@@ -1,10 +1,14 @@
 Git
 ===================================================================
 
+#. `git - the simple guide <http://rogerdudler.github.com/git-guide/>`_
 #. `Git cheat sheets <http://help.github.com/git-cheat-sheets/>`_
 #. `Git 使用流程 <http://learn.github.com/p/normal.html>`_
 #. `《Pro Git》中文译文 <http://progit.org/book/zh/>`_
 #. `github用法指南 <http://www.worldhello.net/gotgithub/>`_
+#. `git-svn <http://techbase.kde.org/Development/Tutorials/Git/git-svn>`_
+#. `如何在Github上创建新项目 <http://help.github.com/create-a-repo/>`_
+
 #. `Git资料收集 打包下载 <http://ishare.iask.sina.com.cn/f/20111841.html>`_ , 内容清单如下
     #. 最好的git中文教程.pdf
     #. 使用git版本管理手册.docx
@@ -21,7 +25,4 @@ Git
     #. git-tutor.pdf
     #. Git+使用教程.pdf
     #. Git_用户手册.docx
-
-#. `git-svn <http://techbase.kde.org/Development/Tutorials/Git/git-svn>`_
-#. `如何在Github上创建新项目 <http://help.github.com/create-a-repo/>`_
 
