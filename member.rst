@@ -12,4 +12,4 @@
 
 计科1103 web方向
 
-.. image:: http://pic.yupoo.com/zhweifcx_v/C4PDQ4Ay/vmPIM.jpg
+.. image:: http://pic.yupoo.com/zhweifcx_v/C4PJDtEx/uyTi.jpg
