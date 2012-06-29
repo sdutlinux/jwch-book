@@ -15,4 +15,5 @@ marketed by Oracle Corporation.
     setup
     tablespace
     install_2k3
+    oracle
 
