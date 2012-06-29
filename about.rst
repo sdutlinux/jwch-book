@@ -37,6 +37,6 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. 编辑你所要修改的内容
-2. 使用 make html 生成html
-3. 使用 make rsync 部署到服务器
+2. 使用 **make html** 生成html
+3. 使用 **make rsync** 部署到服务器
 4. 提交到github
