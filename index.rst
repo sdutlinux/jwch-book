@@ -20,6 +20,7 @@
    language/index
    tool/index
    openwrt/index
+   share 
    rst
    about
    summer
