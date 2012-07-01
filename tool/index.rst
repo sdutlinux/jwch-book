@@ -12,6 +12,7 @@
     sublime
     txt
     windows
+    UseSphinx
 
 
 
