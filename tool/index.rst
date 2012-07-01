@@ -9,7 +9,9 @@
 
     git
     vim
+    sublime
     txt
     windows
+
 
 
