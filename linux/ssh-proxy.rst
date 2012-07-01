@@ -20,6 +20,8 @@ xxx@x.x.x.x -p port 为ssh代理服务器
 
 chrome可用Auto Switch Mode进行配置代理规则
 
+.. image:: _image/switchysharp.png
+
 windows系统ssh代理使用方法
 ------------------------------------
 
