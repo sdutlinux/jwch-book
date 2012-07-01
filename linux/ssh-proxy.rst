@@ -12,10 +12,11 @@ linux系统下的ssh代理使用方法
 将SSH服务映射到本地端口来实现Socks代理服务器的功能
 
 执行::
+
     ssh -qTfnN -D 7070 xxx@x.x.x.x -p port
 
- -D 加本地端口
- xxx@x.x.x.x -p port 为ssh代理服务器
+-D 加本地端口
+xxx@x.x.x.x -p port 为ssh代理服务器
 
 chrome可用Auto Switch Mode进行配置代理规则
 
