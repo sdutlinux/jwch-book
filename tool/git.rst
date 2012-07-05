@@ -1,6 +1,7 @@
 Git
 ===================================================================
 
+#. `git 分支管理策略 <http://www.ruanyifeng.com/blog/2012/07/git.html>`
 #. `git - the simple guide <http://rogerdudler.github.com/git-guide/>`_
 #. `Git cheat sheets <http://help.github.com/git-cheat-sheets/>`_
 #. `Git 使用流程 <http://learn.github.com/p/normal.html>`_
