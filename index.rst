@@ -25,7 +25,6 @@
    about
    summer
    member
-   LINKS
 
 
 Indices and tables
