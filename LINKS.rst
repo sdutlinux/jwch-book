@@ -1,3 +1,6 @@
+链接
+===========================================
+
 .. 图书链接统一定义文件!
 
 .. _The Art of Community: http://www.artofcommunityonline.org/2009/09/18/the-art-of-community-now-available-for-free-download/
@@ -7,8 +10,10 @@
 
 .. 成员相关链接~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. _jianxi: http://jianxin.info
 .. _lidashuang: http://li.dashuang.name
-.. _liuzhe: http://liuzhe.github.com
+.. _liuzhe: http://liuzhe0223.github.com
+.. _zhwei: http://zhwei.sinaapp.com
 
 
 .. 技术社区链接收集~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
