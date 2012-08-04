@@ -1,0 +1,11 @@
+===================
+django的helloworld
+===================
+
+django介绍：
+
+
+ django: https://www.djangoproject.com/
+ django官方文档: https://docs.djangoproject.com/en/dev/
+
+
