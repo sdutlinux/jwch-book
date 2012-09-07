@@ -7,3 +7,6 @@ ruby 语言
 ------------------
 
 `Learn Ruby The Hard Way <http://lrthw.github.com/>`_
+
+Rails 
+----------
