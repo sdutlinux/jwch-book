@@ -18,6 +18,12 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 本文档使用 reStructuredText 编写 , 语法请参见 :ref:`reStructuredText 简明教程 <rst_tutorial>`
 
+安装Sphinx
+
+ubuntu :: 
+
+    sudo easy_install -U Sphinx  
+
 以及
 
 #. `Sphinx Project How-To <http://code.google.com/p/pymotwcn/wiki/SphinxprojectHowto>`_
