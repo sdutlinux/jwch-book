@@ -4,7 +4,6 @@
 
 .. toctree::
 
-     c
-     php
      ruby
      python
+     golang
