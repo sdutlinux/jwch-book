@@ -13,6 +13,8 @@
     googleanalytics_path - optional subpatch for GA cookie
     collapsiblesidebar - enable collapsible sidebar support
 
+      {% include "disqus.html" %}
+
 #}
 
 {% extends "basic/layout.html" %}
@@ -49,11 +51,13 @@
     </div>
 {% endblock %}
 
+
 {%- block relbar2 %}
     <div class="relbar-bottom">
         {{ super() }}
     </div>
 {% endblock %}
+
 
 {% block extrahead -%}
         {{ super() }}
@@ -93,3 +97,4 @@ if(ga_enabled){
     {%- endif %}
     <!-- cloud_sptheme 1.4 -->
 {%- endblock %}
+
