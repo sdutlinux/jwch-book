@@ -13,6 +13,6 @@
     txt
     windows
     UseSphinx
-
+    pyCharm
 
 
