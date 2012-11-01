@@ -4,6 +4,12 @@
 
 :编辑者: 李大双 ldshuang@gmail.com
 
+开发记录
+---------------------
+
+ :doc:`jxzyw`
+
+
 备份方案
 ---------------------
 
@@ -222,11 +228,5 @@ whenever 是对linux 下crontab 在封装，可以像下面这样写定时任务
   
   https://bitbucket.org/sdutlinux/jwch-web-crontab-script
   https://bitbucket.org/sdutlinux/jwch-web-backup-script
-
-
-
-
-
-
 
 
