@@ -157,3 +157,5 @@ doctest:
 rsync:
 	rsync -avze 'ssh -p $(SSH_PORT)' --delete $(BUILDDIR)/html/ $(SSH_USER):$(SSH_USERPATH)
 
+open:
+	xdg-open http://jwch.sdut.edu.cn/book/index.html 
