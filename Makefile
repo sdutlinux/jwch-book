@@ -8,7 +8,7 @@ PAPER         =
 BUILDDIR      = _build
 SSH_PORT 	  = 80
 SSH_USER      = rails@210.44.176.208
-SSH_USERPATH  = ~/book
+SSH_USERPATH  = ~/jwch-web/current/public/book
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
