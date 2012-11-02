@@ -14,7 +14,6 @@ padrina:
 2. https://github.com/padrino/padrino-framework
 
 
-----------------------
 笔记
 -----------------------
 
@@ -30,9 +29,9 @@ padrina:
 
 
 
--------------------------
 开发记录
 -------------------------
+
 创建项目::
     
   padrino g project teaching  -t rspec -d activerecord 
@@ -80,4 +79,62 @@ generators controller example::
   
   padrino rake routes 
    
+
+
+创建model, 创建section model 用于存放栏目::
+
+  padrino g model section name:string  
+  
+db/migrate/001_create_sections.rb::
+
+  class CreateSections < ActiveRecord::Migration
+    def self.up
+      create_table :sections do |t|
+        t.string :name
+        t.timestamps
+      end
+    end
+  
+    def self.down
+      drop_table :sections
+    end
+  end
+ 
+  
+
+然后执行,建表::
+  
+  padrino rake ar:migrate
+
+输出::
+  
+  => Executing Rake ar:migrate ...
+  DEBUG -  (0.2ms)  select sqlite_version(*)
+  DEBUG -  (22.3ms)  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL)
+  DEBUG -  (0.1ms)  PRAGMA index_list("schema_migrations")
+  DEBUG -  (17.1ms)  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  DEBUG -  (0.2ms)  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+   INFO - Migrating to CreateSections (1)
+  DEBUG -  (0.1ms)  begin transaction
+  ==  CreateSections: migrating =================================================
+  -- create_table(:sections)
+  DEBUG -  (0.5ms)  CREATE TABLE "sections" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+   -> 0.0022s
+  ==  CreateSections: migrated (0.0023s) ========================================
+
+  DEBUG -  (0.1ms)  INSERT INTO "schema_migrations" ("version") VALUES ('1')
+  DEBUG -  (15.4ms)  commit transaction
+  DEBUG -  (0.2ms)  SELECT "schema_migrations"."version" FROM "schema_migrations"
+  DEBUG -  (0.1ms)  PRAGMA index_list("sections")
+
+创建 section controller, 需要inex,列出所有的section 还需要new, create 方法创建 section::
+  
+    $ padrino g controller section get:index  get:new post:create 
+    create  app/controllers/section.rb
+    create  app/helpers/section_helper.rb
+    create  app/views/section
+    apply  tests/rspec
+    create  spec/app/controllers/section_controller_spec.rb
+
+get:index 的意思是 以http 的get 方式访问index, post:create 的意思是访问crate 的时候是以post 方式访问的
 
