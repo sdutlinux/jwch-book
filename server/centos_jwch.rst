@@ -31,7 +31,7 @@ rvm
 
 安装:: 
   
-  curl -L https://get.rvm.io | bash -s stable
+  curl -L https://get.rvm.io | sudo bash -s stable
   source ~/.rvm/scripts/rvm
 
 可能还有依赖，可以使用::
@@ -55,7 +55,8 @@ ruby
 问题
 -------------------------
 
-rvm installation not working: “RVM is not a function” 
+#. rvm installation not working: “RVM is not a function” 
+
 解决::
   
   $ source ~/.rvm/scripts/rvm
