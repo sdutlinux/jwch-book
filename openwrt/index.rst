@@ -54,6 +54,8 @@ openwrt 镜像中 backfire
   iptables -t nat -A PREROUTING -d 210.44.176.241 -p tcp --dport 80 -j DNAT --to 192.168.3.11:80
   iptables -t nat -A PREROUTING -d 210.44.176.241 -p tcp --dport 22 -j DNAT --to 192.168.3.11:22
 
+端口转发规范
+-------------------------
 
 防火墙
 -------------------------
