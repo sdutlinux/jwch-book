@@ -61,6 +61,18 @@ ruby
   
   $ source ~/.rvm/scripts/rvm
 
+#. libxml2 is missing 
+
+::
+  
+  yum install libxml2
+  yum install libxml2-devel libxslt libxslt-devel
+
+#. Make sure that `gem install mysql2 -v '0.3.11'` succeeds before bundling 
+
+::
+ 
+  yum install mysql-devel
 
 rails 
 --------------------
@@ -72,5 +84,29 @@ http://www.modrails.com/
     $ gem install passenger
 
 
+deploy 
+------------------------
+
+ssh 公钥::
+
+  ssh-copy-id rails@210.44.176.247
+
+创建gemset, 使用rails 用户::
+
+  rvm gemset create jwch-web
+
+配置好capistrano 之后
+建立相关目录::
+  
+  cap deploy:setup
+
+备份文件迁移,在原来机器部署目录的shared 文件夹里的这些目录打包，复制到新机器的shared 目录里::
+
+  database.yml upload_old  uploads  workflow_pic
+
+  tar cvf  backup.tar database.yml uploads/ upload_old/ workflow_pic/ 
+
+  scp backup.tar rails@192.168.3.81:~/jwch-web/shared 
+    
 
 
