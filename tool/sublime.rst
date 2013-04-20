@@ -6,6 +6,8 @@ sublime
 
 .. image::  /_static/sublime.png
 
+中文文档 http://docs.sublimetext.tw/
+
 vim 模式
 ----------------
 

@@ -27,6 +27,17 @@ linux 相关
 * 推荐学习平台 
     http://linuxcast.net/
 
+
+html css javascript
+^^^^^^^^^^^^^^^^^^^^^^
+
+BootStrap
+""""""""""""""""""""
+
+官网    http://twitter.github.io/bootstrap/  
+
+国内    http://www.bootcss.com/
+
 python
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -95,9 +106,10 @@ sqlite3
     
 详见 http://docs.torriacg.org/docs/flask/patterns/sqlite3.html#sqlite3
 
-BootStrap
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-官网    http://twitter.github.io/bootstrap/  
+开发工具 
+^^^^^^^^^^^^^^^^^^^^^^^
 
-国内    http://www.bootcss.com/
+* vim 
+
+* sublime 
