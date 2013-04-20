@@ -32,6 +32,8 @@ Git
 
 `原文 <http://marklodato.github.com/visual-git-guide/index-zh-cn.html>`_
 
+http://marklodato.github.io/visual-git-guide/index-zh-cn.html 
+
 **正文**
 
 基本用法

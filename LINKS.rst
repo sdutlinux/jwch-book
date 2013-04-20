@@ -11,7 +11,7 @@
 .. 成员相关链接~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _jianxi: http://jianxin.info
-.. _lidashuang: http://li.dashuang.name
+.. _lidashuang: http://lidashuang.writings.io
 .. _liuzhe: http://liuzhe0223.github.com
 .. _zhwei: http://zhwei.sinaapp.com
 
