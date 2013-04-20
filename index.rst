@@ -14,6 +14,7 @@
    :maxdepth: 1
 
 
+   start/index
    3hao/index
    linux/index
    oracle/index
