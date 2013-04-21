@@ -30,13 +30,14 @@ linux 相关
 
 html css javascript
 ^^^^^^^^^^^^^^^^^^^^^^
+* w3c 教程
 
 BootStrap
 """"""""""""""""""""
 
-官网    http://twitter.github.io/bootstrap/  
+* 官网 http://twitter.github.io/bootstrap/  
 
-国内    http://www.bootcss.com/
+* 国内 http://www.bootcss.com/
 
 python
 ^^^^^^^^^^^^^^^^^^^^^
@@ -46,6 +47,8 @@ python
     web版: http://woodpecker.org.cn/abyteofpython_cn/chinese/
 
     pdf版: http://pan.baidu.com/share/link?shareid=517538&uk=3642093566
+
+* learn python the hard way  http://learnpythonthehardway.org/book/
 
 flask
 """"""""""""""""""""""
@@ -110,8 +113,12 @@ sqlite3
 开发工具 
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-* vim 
+vim sublime 
+""""""""""""""""""
 
-* sublime 
+* https://github.com/gmarik/vundle
+
+other 
+"""""""""""""
 
 * goagent 教程  http://www.chinagdg.com/thread-1493-1-1.html 
