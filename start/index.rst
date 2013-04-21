@@ -113,3 +113,5 @@ sqlite3
 * vim 
 
 * sublime 
+
+* goagent 教程  http://www.chinagdg.com/thread-1493-1-1.html 
