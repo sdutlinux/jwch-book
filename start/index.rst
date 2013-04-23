@@ -113,6 +113,8 @@ sqlite3
 开发工具 
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+vim sublime git git-flow 
+
 vim sublime 
 """"""""""""""""""
 
@@ -122,3 +124,8 @@ other
 """""""""""""
 
 * goagent 教程  http://www.chinagdg.com/thread-1493-1-1.html 
+
+git  && github
+""""""""""""""""""
+
+:ref:`git相关资料 <git>`
