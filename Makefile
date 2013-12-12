@@ -6,8 +6,8 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
 BUILDDIR      = _build
-SSH_PORT 	  = 118
-SSH_USER      = rails@210.44.176.208
+SSH_PORT 	  = 8080
+SSH_USER      = rails@210.44.176.58
 SSH_USERPATH  = ~/jwch-web/shared/book
 
 # Internal variables.

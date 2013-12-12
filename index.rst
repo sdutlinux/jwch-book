@@ -23,6 +23,7 @@
    tool/index
    openwrt/index
    share/index
+   manager/index
    rst
    about
    summer
