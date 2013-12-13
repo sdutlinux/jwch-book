@@ -17,3 +17,4 @@ Linux 是现今最成功的自由软件之一。
    vim
    lnmp
    git_flow
+   lvm
