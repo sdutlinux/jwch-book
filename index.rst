@@ -50,4 +50,5 @@ Indices and tables
 ==================
 
 * :ref:`search`
+* deploy record http://jwch.sdut.edu.cn/book/record.txt
 

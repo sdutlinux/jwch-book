@@ -3,3 +3,5 @@
 *.[oa]
 *.*~
 _build/*
+_static/record.txt
+_build/html/record.txt
