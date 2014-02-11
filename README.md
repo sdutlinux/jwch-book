@@ -8,6 +8,3 @@ make rsync
 
 ```
 
-
-
-
