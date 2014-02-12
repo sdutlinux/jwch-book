@@ -13,8 +13,8 @@
 
 .. image:: http://pic.yupoo.com/liuzhe0223/Co76LOoA/QC2zW.jpg
 
-`张卫 <http://zhwei.sinaapp.com>`_
+`张卫 <http://zhangweide.cn>`_
 
-计科1103 web方向
+计科1103 Python web方向
 
 .. image:: _static/uyTi.jpg
