@@ -43,6 +43,7 @@ About
 
    about
    member
+   LINKS
 
 
 * :ref:`search`
