@@ -7,4 +7,3 @@ make html
 make rsync
 
 ```
-
