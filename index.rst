@@ -14,11 +14,11 @@
    :maxdepth: 1
 
 
-   3hao/index
+   tool/index
    linux/index
    server/index
-   tool/index
    openwrt/index
+   3hao/index
    rst
 
 
