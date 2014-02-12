@@ -16,11 +16,9 @@
 
    3hao/index
    linux/index
-   oracle/index
    server/index
    tool/index
    openwrt/index
-   manager/index
    rst
 
 
@@ -45,6 +43,7 @@ About
 
    about
    member
+
 
 * :ref:`search`
 * `Deploy Record <http://jwch.sdut.edu.cn/book/record.txt>`_

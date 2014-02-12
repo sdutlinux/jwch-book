@@ -6,14 +6,15 @@
 
 
 .. toctree::
+   :maxdepth: 2
 
-    git
-    vim
-    sublime
-    txt
-    windows
-    UseSphinx
-    pyCharm
+   git
+   vim
+   sublime
+   txt
+   windows
+   UseSphinx
+   pyCharm
 
 
 

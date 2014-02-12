@@ -13,6 +13,13 @@
    oracle/index
    backup
 
+常用工具
+------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   supervisor
 
 迁移记录
 ------------------
