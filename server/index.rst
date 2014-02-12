@@ -20,6 +20,7 @@
    :maxdepth: 1
 
    supervisor
+   gunicorn
 
 迁移记录
 ------------------
