@@ -6,49 +6,45 @@
 山东理工大学教育技术中心
 =====================================
 
-内容:
-
+文档
+-------------------
 
 .. toctree::
    :glob:
    :maxdepth: 1
 
 
-   start/index
    3hao/index
    linux/index
    oracle/index
    server/index
-   language/index
    tool/index
    openwrt/index
-   share/index
    manager/index
    rst
-   about
+
+
+学习
+-------------------
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   start/index
    summer
+   language/index
+   share/index
+
+
+About
+---------------------
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   about
    member
-
-
-.. +---------------------+---------------------+-----------------------------------+
-.. |                     |                     |                                   |
-.. | **hello**           | **world**           | **hello**                         |
-.. |                     |                     |                                   |
-.. |                     |                     |                                   |
-.. | :doc:`3hao/index`   | :doc:`server/index` | :doc:`language/index`             |
-.. |                     |                     |                                   |
-.. | :doc:`linux/index`  | :doc:`tool/index`   | :doc:`oracle/index`               |
-.. |                     |                     |                                   |
-.. | :doc:`share/index`  | :doc:`rst`          | :doc:`openwrt/index`              |
-.. |                     |                     |                                   |
-.. | :doc:`member`       | :doc:`about`        | :doc:`summer`                     |
-.. |                     |                     |                                   |
-.. +---------------------+---------------------+-----------------------------------+
-
- 
-Indices and tables
-==================
 
 * :ref:`search`
 * `Deploy Record <http://jwch.sdut.edu.cn/book/record.txt>`_
-

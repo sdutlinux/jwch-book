@@ -2,22 +2,22 @@
 ===========================================
 
 .. 图书链接统一定义文件!
-
+..
 .. _The Art of Community: http://www.artofcommunityonline.org/2009/09/18/the-art-of-community-now-available-for-free-download/
-
+..
 .. 图片链接收集~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
+..
+..
 .. 成员相关链接~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+..
 .. _jianxi: http://jianxin.info
 .. _lidashuang: http://lidashuang.writings.io
 .. _liuzhe: http://liuzhe0223.github.com
 .. _zhwei: http://zhwei.sinaapp.com
-
-
+..
+..
 .. 技术社区链接收集~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+..
 .. _Python: http://python.org
 .. _Pythonic: http://wiki.woodpecker.org.cn/moin/PythonIc
 .. _Python website: http://www.python.org
