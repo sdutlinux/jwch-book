@@ -48,5 +48,3 @@ About
 
 * :ref:`search`
 * `Deploy Record <http://jwch.sdut.edu.cn/book/record.txt>`_
-
-
