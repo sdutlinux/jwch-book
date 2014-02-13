@@ -1,5 +1,5 @@
 ====================
-Supervisor服务管理
+Supervisor -- 服务管理
 ====================
 :作者: zhwei http://zhangweide.cn/
 

@@ -23,7 +23,8 @@
 -----------------------
 .. toctree::
 
+    lenovo_protect
+    soft
     xiaoshaobing
     issue
-    soft
 

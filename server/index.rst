@@ -8,17 +8,20 @@
 ------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
+   ../linux/index
    oracle/index
    backup
 
-常用工具
+常用软件
 ------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
+   nginx
+   lnmp
    supervisor
    gunicorn
 

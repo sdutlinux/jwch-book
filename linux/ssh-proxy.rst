@@ -4,7 +4,7 @@ ssh 代理使用
 
 .. _ssh-proxy:
 
-:作者: 张卫 `zhwei.sinaapp.com <http://zhwei.sinaapp.com/>`_
+:作者: `张卫 <http://zhangweide.cn/>`_
 
 linux系统下的ssh代理使用方法
 ----------------------------------

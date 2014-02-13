@@ -1,4 +1,4 @@
-Gunicorn, Python WSGI HTTP Server for UNIX
+Gunicorn -- Python WSGI HTTP Server for UNIX
 ==============================================
 :作者: zhwei http://zhangweide.cn/
 
