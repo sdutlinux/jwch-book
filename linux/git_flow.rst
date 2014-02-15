@@ -17,7 +17,7 @@ git flow是对 http://nvie.com/posts/a-successful-git-branching-model/ 这个分
 
 git flow定义了下列分支 
 
-主要分支
+主要分支:
   1. master: 永远在 production-ready 状态
   2.develop: 最新的下次发布开发状态
 
