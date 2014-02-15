@@ -19,7 +19,7 @@ git flow定义了下列分支
 
 主要分支:
   1. master: 永远在 production-ready 状态
-  2.develop: 最新的下次发布开发状态
+  2. develop: 最新的下次发布开发状态
 
 支援性分支:
   1. Feature branches: 开发新功能都从 develop 分支出來，完成后 merge 回 develop
