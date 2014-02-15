@@ -19,7 +19,6 @@ git flow定义了下列分支
 
 主要分支
   1. master: 永远在 production-ready 状态
-
   2.develop: 最新的下次发布开发状态
 
 支援性分支:
