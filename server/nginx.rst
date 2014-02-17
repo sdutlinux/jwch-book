@@ -13,6 +13,10 @@ Nginx Web服务器
 
     apt-get install libpcre3 libpcre3-dev
 
+openSUSE下安装nginx_
+
+.. _openSUSE下安装nginx:  http://alwaysyunwei.blog.51cto.com/3224143/1230275
+http://alwaysyunwei.blog.51cto.com/3224143/1230275
 反向代理服务器
 ----------------------
 
