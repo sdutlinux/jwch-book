@@ -3,6 +3,8 @@
 ==================
 
 .. toctree::
+  	:glob:
+  	:maxdepth: 1
 
-     segment_tree
-     trie_tree
+  	segment_tree
+  	trie_tree
