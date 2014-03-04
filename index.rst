@@ -30,6 +30,7 @@
    :maxdepth: 1
 
    start/index
+   algorithm/index
    summer
    language/index
    share/index

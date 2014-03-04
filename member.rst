@@ -1,11 +1,9 @@
 贡献者
 =======================
 
-`李大双 <http://李大双.中国>`_
+`李大双 <http://blog.segmentfault.com/lds>`_
 
 计科0906 嵌入式方向
-
-.. image:: _static/medish.jpg
 
 `刘哲 <http://liuzhe0223.github.com>`_
 
