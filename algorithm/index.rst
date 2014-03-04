@@ -5,3 +5,4 @@
 .. toctree::
 
      segment_tree
+     trie_tree
