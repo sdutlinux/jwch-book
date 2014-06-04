@@ -252,11 +252,11 @@ Nginx配置文件解释
 常用配置条目
 ----------------------
 
-* 上传文件大小限制
+* 上传文件大小限制::
 
-    10m;
+    client_max_body_size 10m;
     #允许客户端请求的最大单文件字节数
 
-* 允许转发自定义http header
+* 允许转发自定义http header::
 
     underscores_in_headers on;
